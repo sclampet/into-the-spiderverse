@@ -1,6 +1,6 @@
 # Spider-Man Into The Spider-Verse Web AR Game!
 
-On the cutting edge of tech, I had the pleasure of collaborating with Sony Pictures for the DVD/BluRay Release of Spider-Man Into The Spider-Verse. Working with 8the Wall I developed an AR experience direct from direct from a mobile browser, no native app required! The QR code for this experience was put on every DVD sold in a Walmart.
+On the cutting edge of tech, I had the pleasure of collaborating with Sony Pictures for the DVD/BluRay Release of Spider-Man Into The Spider-Verse. Working with 8the Wall I developed an AR experience direct from a mobile browser, no native app required! The QR code for this experience was put on every DVD sold in a Walmart.
 
 The source code is not available due to IP protection.
 
