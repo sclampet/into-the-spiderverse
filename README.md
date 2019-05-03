@@ -6,6 +6,6 @@ On the cutting edge of tech, I had the pleasure of collaborating with Sony Pictu
 
 8th Wall, AFRAME, Three.js, Javascript, HTML/CSS. (The source code is not available due to IP protection)
 
-## [Check Out The Game Here!](https://sites.sonypictures.com/spiderverse/spiderversear/)
+## [Check Out The Game!](https://sites.sonypictures.com/spiderverse/spiderversear/)
 
 <img src="images/image1.png" width="200">        <img src="images/image2.png" width="204">        <img src="images/image3.png" width="203">
