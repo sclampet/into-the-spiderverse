@@ -8,4 +8,4 @@ On the cutting edge of tech, I had the pleasure of collaborating with Sony Pictu
 
 ## [Check Out The Game!](https://sites.sonypictures.com/spiderverse/spiderversear/)
 
-![Demo](https://user-images.githubusercontent.com/17322126/58372414-0bf3ad00-7eda-11e9-8793-b0e33a0922d8.gif)
+![spiderverse (3)](https://user-images.githubusercontent.com/17322126/58372488-2c703700-7edb-11e9-944e-32fda788adc9.gif)
